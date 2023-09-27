@@ -1,0 +1,22 @@
+{
+  "name": "tnnp-todo",
+  "version": "1.0.0",
+  "description": "TS Nest Next Postgres Todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server": "cd server && npx ts-node src/main.ts",
+    "start:app": "cd app && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeroFuruya/tnnp-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeroFuruya/tnnp-todo/issues"
+  },
+  "homepage": "https://github.com/MeroFuruya/tnnp-todo#readme"
+}
